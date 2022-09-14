@@ -2,7 +2,7 @@
 
 This is a Flask application that lists the latest articles within the cloud-native ecosystem.
 
-## Run 
+## Run  
 
 To run this application there are 2 steps required:
 
